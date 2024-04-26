@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T11:40:38.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="KZjAe9RSU0N-oCmxk3Z_" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T11:59:04.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3vavm1-BxEb0AHcOXH8N" version="24.3.0" type="github">
   <diagram name="Page-1" id="qePDWrUwZ6SZZM9iCdRM">
-    <mxGraphModel dx="1320" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1603" dy="1467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,6 +44,26 @@
         </mxCell>
         <mxCell id="_pCXd_xDysGB_B-lZKg1-31" value="ACHIEVING COMPETITIVE PERFORMANCE USING MODEL ENSEMBLE" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;textShadow=0;spacingTop=2;" vertex="1" parent="_pCXd_xDysGB_B-lZKg1-20">
           <mxGeometry y="250" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_pCXd_xDysGB_B-lZKg1-32" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Why is this important for your career?&lt;/b&gt;&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=70;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="70" width="240" height="620" as="geometry">
+            <mxRectangle x="40" y="600" width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_pCXd_xDysGB_B-lZKg1-33" value="&lt;h4&gt;&lt;br&gt;Hands on experience : Apply ML techniques to solve a&amp;nbsp; classification problem in fintech.&lt;/h4&gt;&lt;h4&gt;&amp;nbsp;&lt;/h4&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;horizontal=1;" vertex="1" parent="_pCXd_xDysGB_B-lZKg1-32">
+          <mxGeometry y="70" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_pCXd_xDysGB_B-lZKg1-34" value="&lt;h3&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Practical skills : Gain proficiency in data preprocessing, feature engineering, model building, and evaluation.&lt;/span&gt;&lt;br&gt;&lt;/h3&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_pCXd_xDysGB_B-lZKg1-32">
+          <mxGeometry y="180" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_pCXd_xDysGB_B-lZKg1-35" value="&lt;br&gt;&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;High demand skills : ML and predictive modelling are in high demand across various industries.&lt;/span&gt;&lt;/h3&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_pCXd_xDysGB_B-lZKg1-32">
+          <mxGeometry y="290" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_pCXd_xDysGB_B-lZKg1-36" value="&lt;h4&gt;Profesional&amp;nbsp; growth : Expand your domain knowledge in finance, lending, and credit risk assesstment.&lt;/h4&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_pCXd_xDysGB_B-lZKg1-32">
+          <mxGeometry y="400" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_pCXd_xDysGB_B-lZKg1-37" value="&lt;h4&gt;Collaboration : Collaborate with peers, exchange ideas, and learn to work&amp;nbsp; effectively in a team setting.&lt;/h4&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;textShadow=0;spacingTop=2;" vertex="1" parent="_pCXd_xDysGB_B-lZKg1-32">
+          <mxGeometry y="510" width="240" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
